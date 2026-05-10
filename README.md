@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/eea37f1d-fa61-4337-bd2f-2ddc12372234" /># ML Internship Projects
+
 
 COMPANY: CODETECH IT SOLUTIONS
 NAME: TATAPUDI MADHU SARVANI

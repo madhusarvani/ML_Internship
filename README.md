@@ -1,6 +1,14 @@
-# ML Internship Projects
 
-A comprehensive collection of machine learning projects demonstrating various techniques and applications.
+
+COMPANY: CODETECH IT SOLUTIONS
+NAME: TATAPUDI MADHU SARVANI
+INTERN ID : CTIS9693
+DOMAIN : MACHINE LEARNING
+DURATION : 8 WEEKS
+
+
+A comprehensive collection of machine learning projects demonstrating various techniques and applications
+
 
 ## 📁 Project Structure
 
